@@ -33,7 +33,7 @@ This repository is about the useful ideas and tools of R for data science projec
 - <https://towardsdatascience.com/python-vs-and-r-for-data-science-4a32580846a4>
 
 ## Videos for R
-- <>
+- <https://jsmithco.wordpress.com/educational-modules/analytics-course-modules/>
 
 ## Vectors and lists
 - <https://jennybc.github.io/purrr-tutorial/bk00_vectors-and-lists.html>
