@@ -16,7 +16,9 @@ This repository is about the useful ideas and tools of R for data science projec
 - <https://www.tidyverse.org/>
 
 ## RStudio Cheatsheets
-- <https://rstudio.com/resources/cheatsheets/>
+- RStudio Cheatsheets: <https://rstudio.com/resources/cheatsheets/>
+- Data Import Cheatsheet: <https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf>
+- Data Visualization Cheatsheet: <https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf>
 
 ## RStudio webinars
 - <https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/>
