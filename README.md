@@ -7,7 +7,7 @@ This repository is about the useful ideas and tools of R for data science projec
 
 # Basic Materials
 ## Books
-- *R for Data Science* <https://r4ds.had.co.nz>
+- [R for Data Science](https://r4ds.had.co.nz)
 
 ## Tutorials
 - <https://www.tutorialspoint.com/r/index.htm>
