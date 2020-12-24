@@ -18,21 +18,21 @@ This repository is about the useful ideas and tools of R for data science projec
 - [Data Visualization Cheatsheet](https://d33wubrfki0l68.cloudfront.net/21d683072b0c21cbd9b41fc0e37a587ad26b9525/cbf41/wp-content/uploads/2018/08/data-visualization-2.1.png) [[PDF]](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
 
 ## RStudio webinars
-- <https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/>
+- [RStudio webinars](https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/)
 
 ## RMySQL
-- <http://biostat.mc.vanderbilt.edu/wiki/Main/RMySQL>
-- <https://programminghistorian.org/en/lessons/getting-started-with-mysql-using-r>
+- [RMySQL01](http://biostat.mc.vanderbilt.edu/wiki/Main/RMySQL)
+- [RMySQL02](https://programminghistorian.org/en/lessons/getting-started-with-mysql-using-r)
 
 ## Python in R
 - <>
 
 ## Python v.s. R
-- <https://www.datacamp.com/community/blog/when-to-use-python-or-r>
-- <https://towardsdatascience.com/python-vs-and-r-for-data-science-4a32580846a4>
+- [When to use python or R](https://www.datacamp.com/community/blog/when-to-use-python-or-r)
+- [Python vs R for Data Science](https://towardsdatascience.com/python-vs-and-r-for-data-science-4a32580846a4)
 
 ## Videos for R
-- <https://jsmithco.wordpress.com/educational-modules/analytics-course-modules/>
+- [Data Analystics using R](https://jsmithco.wordpress.com/educational-modules/analytics-course-modules/)
 
 ## Vectors and lists
 - <https://jennybc.github.io/purrr-tutorial/bk00_vectors-and-lists.html>
