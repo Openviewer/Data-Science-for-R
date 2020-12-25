@@ -35,7 +35,7 @@ This repository is about the useful ideas and tools of R for data science projec
 - [Data Analystics using R](https://jsmithco.wordpress.com/educational-modules/analytics-course-modules/)
 
 ## Vectors and lists
-- <https://jennybc.github.io/purrr-tutorial/bk00_vectors-and-lists.html>
+- [Vectors and Lists](https://jennybc.github.io/purrr-tutorial/bk00_vectors-and-lists.html)
 
 ## NULL, NA, NAN, and Inf/-Inf
 - <https://www.r-bloggers.com/2018/07/r-null-values-null-na-nan-inf/>
