@@ -16,6 +16,7 @@ This repository is about the useful ideas and tools of R for data science projec
 - [Data Import Cheatsheet](https://d33wubrfki0l68.cloudfront.net/b7142a24f47a959b8a4b67910c67db8b41036f28/ac9a2/wp-content/uploads/2018/08/data-import.png) [[PDF]](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
 - [Data Transformation Cheatsheet](https://d33wubrfki0l68.cloudfront.net/db69c3d03699d395475d2ac14d64f611054fa9a4/e98f3/wp-content/uploads/2018/08/data-transformation.png) [[PDF]](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
 - [Data Visualization Cheatsheet](https://d33wubrfki0l68.cloudfront.net/21d683072b0c21cbd9b41fc0e37a587ad26b9525/cbf41/wp-content/uploads/2018/08/data-visualization-2.1.png) [[PDF]](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
+- [Cookbook - Colors (ggplot2)](http://www.cookbook-r.com/Graphs/Colors_%28ggplot2%29/)
 
 ## RStudio webinars
 - [RStudio webinars](https://rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/)
